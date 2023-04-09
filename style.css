@@ -23,9 +23,9 @@ body {
   /*overflow= tout ce qui dépasse du body doit être caché */
 }
 .card {
-  background: pink;
+  background: salmon;
   width: calc(100% - 50px);
-  padding: 20px 20px 6px;
+  padding: 30px 30px 6px;
   /* padding = marge intérieur */
   box-shadow: -5px -2px 17px 0px white;
   border-radius: 5px;
@@ -102,8 +102,8 @@ h1::after {
 }
 
 p {
-  line-height: 26px;
-  margin: 20px 0;
+  line-height: 24px;
+  margin: 21px 0;
   display: -webkit-box;
   -webkit-box-orient: vertical;
   -webkit-line-clamp: 3;
