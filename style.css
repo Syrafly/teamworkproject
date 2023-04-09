@@ -23,7 +23,7 @@ body {
   /*overflow= tout ce qui dépasse du body doit être caché */
 }
 .card {
-  background: pink;
+  background: yellow;
   width: calc(100% - 50px);
   padding: 20px 20px 6px;
   /* padding = marge intérieur */
