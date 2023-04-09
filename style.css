@@ -25,7 +25,7 @@ body {
 .card {
   background: salmon;
   width: calc(100% - 50px);
-  padding: 30px 30px 6px;
+  padding: 30px 30px 16px;
   /* padding = marge intérieur */
   box-shadow: -5px -2px 17px 0px white;
   border-radius: 5px;
